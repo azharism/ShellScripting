@@ -11,4 +11,4 @@ Shell script that displays the number of failed login attempts by IP address and
 Shell script parses a log file and forwards a specific value with a timestamp to an output file.
 Write a shell script to automate the process of rotating log files and compressing old files to save disk space.
 Write a shell script to check the status of a list of URLs and send an email notification if any of them are down.
-Write a shell script to automate the process of updating a list of servers with the latest security patches.
+Write a shell script to automate the process of updating a list of servers with the latest security patches. 
